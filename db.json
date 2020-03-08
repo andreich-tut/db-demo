@@ -3,12 +3,52 @@
         {
             "id": 1,
             "title": "Card 1",
-            "list_id": 1
+            "card_list_id": 1
         }
     ],
     "cards_lists": [
         {
             "id": 1,
+            "list": [
+                {
+                    "id": 1,
+                    "title": "Task 1",
+                    "checked": false
+                },
+                {
+                    "id": 1,
+                    "title": "Task 1",
+                    "checked": false
+                },
+                {
+                    "id": 1,
+                    "title": "Task 1",
+                    "checked": false
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "list": [
+                {
+                    "id": 1,
+                    "title": "Task 1",
+                    "checked": false
+                },
+                {
+                    "id": 1,
+                    "title": "Task 1",
+                    "checked": false
+                },
+                {
+                    "id": 1,
+                    "title": "Task 1",
+                    "checked": false
+                }
+            ]
+        },
+        {
+            "id": 3,
             "list": [
                 {
                     "id": 1,
