@@ -4,6 +4,16 @@
             "id": 1,
             "title": "Card 1",
             "card_list_id": 1
+        },
+        {
+            "id": 2,
+            "title": "Card 2",
+            "card_list_id": 2
+        },
+        {
+            "id": 2,
+            "title": "Card 3",
+            "card_list_id": 3
         }
     ],
     "cards_lists": [
