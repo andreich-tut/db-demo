@@ -2,80 +2,59 @@
     "cards": [
         {
             "id": 1,
-            "title": "Card 1",
-            "card_list_id": 1
+            "title": "Card 1"
         },
         {
             "id": 2,
-            "title": "Card 2",
-            "card_list_id": 2
-        },
-        {
-            "id": 2,
-            "title": "Card 3",
-            "card_list_id": 3
-        }
-    ],
-    "cards_lists": [
-        {
-            "id": 1,
-            "list": [
-                {
-                    "id": 1,
-                    "title": "Task 1",
-                    "checked": false
-                },
-                {
-                    "id": 1,
-                    "title": "Task 1",
-                    "checked": false
-                },
-                {
-                    "id": 1,
-                    "title": "Task 1",
-                    "checked": false
-                }
-            ]
-        },
-        {
-            "id": 2,
-            "list": [
-                {
-                    "id": 1,
-                    "title": "Task 1",
-                    "checked": false
-                },
-                {
-                    "id": 1,
-                    "title": "Task 1",
-                    "checked": false
-                },
-                {
-                    "id": 1,
-                    "title": "Task 1",
-                    "checked": false
-                }
-            ]
+            "title": "Card 2"
         },
         {
             "id": 3,
-            "list": [
-                {
-                    "id": 1,
-                    "title": "Task 1",
-                    "checked": false
-                },
-                {
-                    "id": 1,
-                    "title": "Task 1",
-                    "checked": false
-                },
-                {
-                    "id": 1,
-                    "title": "Task 1",
-                    "checked": false
-                }
-            ]
+            "title": "Card 3"
+        }
+    ],
+    "tasks": [
+        {
+            "id": 1,
+            "card_id": 1,
+            "title": "Task 1",
+            "weight": 0,
+            "checked": false
+        },
+        {
+            "id": 2,
+            "card_id": 1,
+            "title": "Task 2",
+            "weight": 1,
+            "checked": false
+        },
+        {
+            "id": 3,
+            "card_id": 1,
+            "title": "Task 3",
+            "weight": 2,
+            "checked": false
+        },
+        {
+            "id": 4,
+            "card_id": 2,
+            "title": "Task 1",
+            "weight": 0,
+            "checked": false
+        },
+        {
+            "id": 5,
+            "card_id": 2,
+            "title": "Task 2",
+            "weight": 1,
+            "checked": false
+        },
+        {
+            "id": 6,
+            "card_id": 2,
+            "title": "Task 3",
+            "weight": 2,
+            "checked": false
         }
     ]
 }
