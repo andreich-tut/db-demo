@@ -1,1 +1,1 @@
-db mock for https://my-json-server.typicode.com/
+db mock for https://my-json-server.typicode.com/andreich-tut/db-demo
